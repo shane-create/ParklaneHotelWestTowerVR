@@ -167,7 +167,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.BeardedNinjaGames.VRInteractionFramework
+    Standalone: com.DefaultCompany.Parklane-Hotel-West-Tower
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -815,11 +815,11 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 1
   cloudProjectId: 2669d32e-c8e3-4b67-82bf-228e33edf638
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Parklane Hotel West Tower
   organizationId: emphasysuser8
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
